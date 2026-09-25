@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0331.jpg,vệt sáng đèn pha rọi lòng đường làn ngoài cùng bên trái,deleted,Không tính vệt sáng của đèn pha chiếu xuống mặt đường theo GUIDELINE_LABEL.md
+1,frame_0331.jpg,xe ở xa chân cầu vượt chìm trong nền tối,added,Nhìn rõ đèn và ranh giới thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,xe bị bóng tối bao quanh vẽ khung quá rộng,edited,Chỉnh box ôm sát thân xe theo GUIDELINE_LABEL.md
